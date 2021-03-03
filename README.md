@@ -181,4 +181,6 @@ anchor tag.
 ### About :honeybee:
 
 Dosen       : Dicky Prima Satya, M.T., Andre Febrianto, S.Kom., M.Eng., Amirul Iqbal, S.Kom., M.Eng.
-
+Pengembang  : https://github.com/muhammadnajie 
+              https://github.com/muhkhoirurrizqi
+              https://github.com/khoirul-roziq
